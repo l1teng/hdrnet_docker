@@ -1,0 +1,3 @@
+[submodule "hdrnet"]
+	path = hdrnet
+	url = https://github.com/litun5315/hdrnet_legacy.git
