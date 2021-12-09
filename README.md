@@ -1,5 +1,7 @@
 # [hdrnet](https://groups.csail.mit.edu/graphics/hdrnet/)_[docker](https://docker.com/)
 
+[[Docker Image](https://hub.docker.com/repository/docker/terrytengli/hdrnet)]
+
 Intorduction: Docker image for [hdrnet](https://groups.csail.mit.edu/graphics/hdrnet/) runtime environment.
 
 ## Usage
